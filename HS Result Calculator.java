@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class HS Result Calculator {
+public class HS_Result_Calculator {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         int marks,ben,e,p,c,m,opt,min,choice=1;

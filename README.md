@@ -1,6 +1,6 @@
 # 🎓 HS Result Calculator
 
-A menu-driven Java console application that calculates WBCHSE Higher Secondary (HS) results using the **Best of 5** rule.
+A menu-driven Java console application that calculates Higher Secondary (HS) results using the **Best of 5** rule.
 
 ## ✨ Features
 
